@@ -1,0 +1,6 @@
+# Gercek sonuclar (kullanicinin gonderdigi ekran goruntulerinden)
+hafta05: 122X1211XX1X22X
+hafta06: X1211111X21211X
+hafta07: 2212X2222X11222
+hafta08: 11XX112211211X1
+hafta09: 1XX22X212X1X21X
