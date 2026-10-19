@@ -75,12 +75,14 @@ def main():
             satirlar.append((ad, i + 1, ev, dep, p, tahmin[-1]))
         gercek = sonuclar.get(ad)
         if gercek:
+            oynanan = sum(g in "1X2" for g in gercek)  # "-" = henüz oynanmadı
             d = sum(t == g for t, g in zip(tahmin, gercek))
-            toplam += len(maclar)
+            toplam += oynanan
             dogru += d
-            print(f"{ad:<8}{tahmin:<18}{gercek:<18}{d:>4}/15")
+            print(f"{ad:<8}{tahmin:<18}{gercek:<18}{d:>4}/{oynanan}")
             for (ev, dep), s in zip(maclar, gercek):  # tahminden SONRA öğren
-                guncelle(sezon, ev, dep, s, a.k)
+                if s in "1X2":
+                    guncelle(sezon, ev, dep, s, a.k)
         else:
             print(f"{ad:<8}{tahmin:<18}{'(sonuç yok)':<18}")
     print(f"\nToplam: {dogru}/{toplam}  (%{100 * dogru / toplam:.1f}),"
