@@ -1,0 +1,166 @@
+hafta,mac,ev,deplasman,p1,pX,p2,tahmin
+hafta01,1,Galatasaray,Çorum,62.7,20.8,16.5,1
+hafta01,2,Kasımpaşa,Trabzonspor,39.1,25.8,35.0,X
+hafta01,3,Konyaspor,Rizespor,46.5,25.7,27.8,1
+hafta01,4,Gaziantep,Alanyaspor,47.2,25.5,27.3,1
+hafta01,5,Gençlerbirliği,Fenerbahçe,34.1,23.7,42.2,2
+hafta01,6,Başakşehir,Kocaelispor,51.0,24.4,24.6,1
+hafta01,7,Amed,Erzurumspor,46.8,25.6,27.6,1
+hafta01,8,Beşiktaş,Eyüpspor,56.6,22.7,20.7,1
+hafta01,9,Samsunspor,Göztepe,46.8,25.6,27.6,1
+hafta01,10,Arsenal,Man City,48.4,25.2,26.4,1
+hafta01,11,Lens,PSG,35.0,24.8,40.3,X
+hafta01,12,Sevilla,Vallecano,44.1,26.4,29.5,1
+hafta01,13,Santander,Villarreal,35.5,25.0,39.6,X
+hafta01,14,Espanyol,Levante,49.8,24.8,25.5,1
+hafta01,15,Celta Vigo,Osasuna,47.0,25.6,27.4,1
+hafta02,1,Erzurumspor,Galatasaray,30.1,22.8,47.1,2
+hafta02,2,Rizespor,Samsunspor,44.8,26.2,28.9,1
+hafta02,3,Çorum,Kasımpaşa,43.8,26.5,29.7,1
+hafta02,4,Fenerbahçe,Konyaspor,60.1,21.7,18.2,1
+hafta02,5,Eyüpspor,Gaziantep,43.9,26.5,29.6,1
+hafta02,6,Trabzonspor,Başakşehir,49.2,24.9,25.9,1
+hafta02,7,Alanyaspor,Beşiktaş,38.3,26.3,35.4,X
+hafta02,8,Göztepe,Gençlerbirliği,52.7,23.9,23.4,1
+hafta02,9,Kocaelispor,Amed,49.4,24.9,25.8,1
+hafta02,10,Dortmund,Bayern Münih,36.9,25.6,37.5,X
+hafta02,11,Marsilya,Strasbourg,49.8,24.8,25.5,1
+hafta02,12,Newcastle,Liverpool,38.7,26.3,34.9,X
+hafta02,13,Real Betis,Real Sociedad,48.7,25.1,26.2,1
+hafta02,14,Atletico Madrid,Villarreal,49.1,24.9,25.9,1
+hafta02,15,Torino,AC Milan,37.2,25.7,37.1,X
+hafta03,1,Gençlerbirliği,Erzurumspor,56.3,22.8,20.9,1
+hafta03,2,Konyaspor,Kocaelispor,42.3,27.0,30.7,1
+hafta03,3,Galatasaray,Göztepe,61.0,21.4,17.6,1
+hafta03,4,Gaziantep,Rizespor,49.0,25.0,26.0,1
+hafta03,5,Eyüpspor,Alanyaspor,39.4,27.8,32.7,X
+hafta03,6,Başakşehir,Kasımpaşa,50.7,24.5,24.8,1
+hafta03,7,Samsunspor,Fenerbahçe,40.6,25.0,34.4,X
+hafta03,8,Amed,Trabzonspor,34.6,25.4,40.0,X
+hafta03,9,Beşiktaş,Çorum,60.5,21.5,17.9,1
+hafta03,10,Dortmund,Hamburg,54.6,23.3,22.1,1
+hafta03,11,Lille,PSG,37.0,24.5,38.5,X
+hafta03,12,Monaco,Marsilya,41.1,27.3,31.6,1
+hafta03,13,Tottenham,Newcastle,42.1,27.0,30.8,1
+hafta03,14,Sevilla,Atletico Madrid,37.0,24.3,38.7,X
+hafta03,15,Cagliari,Inter,32.8,23.8,43.4,2
+hafta04,1,Erzurumspor,Konyaspor,45.8,25.9,28.3,1
+hafta04,2,Kasımpaşa,Amed,51.4,24.3,24.4,1
+hafta04,3,Çorum,Eyüpspor,42.5,26.9,30.6,1
+hafta04,4,Fenerbahçe,Beşiktaş,53.5,23.6,22.8,1
+hafta04,5,Başakşehir,Galatasaray,33.0,25.7,41.3,2
+hafta04,6,Kocaelispor,Samsunspor,45.1,26.1,28.7,1
+hafta04,7,Trabzonspor,Gençlerbirliği,53.3,23.7,23.0,1
+hafta04,8,Rizespor,Alanyaspor,49.2,24.9,25.9,1
+hafta04,9,Göztepe,Gaziantep,49.5,24.8,25.7,1
+hafta04,10,Everton,Man United,40.8,27.2,32.0,1
+hafta04,11,Arsenal,Chelsea,53.8,23.5,22.6,1
+hafta04,12,Athletic Bilbao,Atletico Madrid,37.8,27.4,34.8,X
+hafta04,13,Inter,Napoli,51.2,24.3,24.5,1
+hafta04,14,AS Roma,Atalanta,46.3,25.8,27.9,1
+hafta04,15,Juventus,AC Milan,43.0,26.8,30.2,1
+hafta05,1,Beşiktaş,Erzurumspor,63.1,20.8,16.1,1
+hafta05,2,Eyüpspor,Rizespor,41.8,27.1,31.1,1
+hafta05,3,Samsunspor,Çorum,56.1,22.9,21.0,1
+hafta05,4,Alanyaspor,Göztepe,48.9,25.0,26.1,1
+hafta05,5,Konyaspor,Trabzonspor,31.4,27.3,41.4,2
+hafta05,6,Gençlerbirliği,Kasımpaşa,46.0,25.9,28.1,1
+hafta05,7,Amed,Başakşehir,42.8,24.6,32.6,1
+hafta05,8,Galatasaray,Kocaelispor,61.9,21.1,16.9,1
+hafta05,9,Gaziantep,Fenerbahçe,36.9,23.8,39.2,X
+hafta05,10,Augsburg,Leverkusen,36.9,25.6,37.5,X
+hafta05,11,Rennes,Marsilya,39.6,26.6,33.8,X
+hafta05,12,Chelsea,Hull City,58.2,22.2,19.5,1
+hafta05,13,Man United,Man City,38.5,24.9,36.6,X
+hafta05,14,Levante,Barcelona,27.9,22.9,49.2,2
+hafta05,15,Lazio,AC Milan,37.9,27.7,34.4,X
+hafta06,1,Kasımpaşa,Konyaspor,54.5,23.3,22.1,1
+hafta06,2,Kocaelispor,Gaziantep,48.5,25.1,26.3,1
+hafta06,3,Çorum,Alanyaspor,40.6,27.3,32.1,1
+hafta06,4,Başakşehir,Gençlerbirliği,50.6,24.5,24.9,1
+hafta06,5,Trabzonspor,Galatasaray,32.1,27.5,40.4,2
+hafta06,6,Erzurumspor,Samsunspor,40.0,25.4,34.6,X
+hafta06,7,Fenerbahçe,Eyüpspor,65.7,20.0,14.3,1
+hafta06,8,Amed,Beşiktaş,34.2,25.0,40.8,X
+hafta06,9,Göztepe,Rizespor,45.7,26.0,28.3,1
+hafta06,10,Stuttgart,Dortmund,41.6,27.2,31.2,1
+hafta06,11,Leverkusen,Leipzig,48.0,25.3,26.7,1
+hafta06,12,Tottenham,Aston Villa,41.2,27.3,31.5,1
+hafta06,13,Newcastle,Hull City,59.2,21.9,18.8,1
+hafta06,14,Atletico Madrid,Real Madrid,40.9,27.0,32.1,1
+hafta06,15,AS Roma,Inter,38.0,27.5,34.5,X
+hafta07,1,Türkiye,Fransa,37.7,24.0,38.4,X
+hafta07,2,Türkiye,İtalya,49.0,25.0,26.0,1
+hafta07,3,İsveç,Romanya,51.1,24.4,24.6,1
+hafta07,4,İtalya,Belçika,50.4,24.6,25.0,1
+hafta07,5,Slovenya,İskoçya,45.3,26.1,28.6,1
+hafta07,6,Bulgaristan,Lüksemburg,54.4,23.4,22.2,1
+hafta07,7,Kuzey Makedonya,İsviçre,35.9,23.2,40.9,X
+hafta07,8,Çekya,Hırvatistan,41.2,25.4,33.4,X
+hafta07,9,İngiltere,İspanya,42.7,26.1,31.2,1
+hafta07,10,Litvanya,Azerbaycan,48.2,25.2,26.6,1
+hafta07,11,Avusturya,Kosova,63.7,20.6,15.7,1
+hafta07,12,Danimarka,Galler,57.3,22.5,20.2,1
+hafta07,13,Sırbistan,Hollanda,38.2,24.2,37.7,X
+hafta07,14,Almanya,Yunanistan,60.8,21.5,17.8,1
+hafta07,15,Norveç,Portekiz,43.2,26.3,30.4,1
+hafta08,1,Belçika,Türkiye,57.9,22.3,19.7,1
+hafta08,2,İtalya,Türkiye,55.7,23.0,21.3,1
+hafta08,3,Bosna Hersek,İsveç,42.4,26.9,30.6,1
+hafta08,4,Fransa,İtalya,63.6,20.6,15.8,1
+hafta08,5,Macaristan,Gürcistan,54.4,23.4,22.2,1
+hafta08,6,Polonya,Romanya,55.1,23.2,21.8,1
+hafta08,7,Hırvatistan,İngiltere,45.4,24.2,30.5,1
+hafta08,8,Kuzey Makedonya,İskoçya,36.9,25.6,37.5,X
+hafta08,9,İspanya,Çekya,69.6,18.2,12.2,1
+hafta08,10,İsviçre,Slovenya,62.0,21.1,16.9,1
+hafta08,11,Galler,Danimarka,40.0,26.9,33.1,X
+hafta08,12,Hollanda,Sırbistan,65.8,20.0,14.2,1
+hafta08,13,Portekiz,Norveç,61.0,21.4,17.6,1
+hafta08,14,Yunanistan,Almanya,43.3,23.3,33.3,1
+hafta08,15,Fransa,Belçika,61.1,21.4,17.5,1
+hafta09,1,Galatasaray,Kasımpaşa,62.8,20.9,16.3,1
+hafta09,2,Gençlerbirliği,Amed,43.0,26.4,30.7,1
+hafta09,3,Alanyaspor,Erzurumspor,56.5,22.7,20.7,1
+hafta09,4,Samsunspor,Trabzonspor,37.3,28.1,34.6,X
+hafta09,5,Rizespor,Fenerbahçe,35.7,24.2,40.1,X
+hafta09,6,Konyaspor,Başakşehir,39.8,27.7,32.5,X
+hafta09,7,Gaziantep,Çorum,53.6,23.6,22.8,1
+hafta09,8,Beşiktaş,Kocaelispor,54.4,23.4,22.2,1
+hafta09,9,Eyüpspor,Göztepe,38.2,27.0,34.7,X
+hafta09,10,Augsburg,Bayern Münih,27.6,23.4,48.9,2
+hafta09,11,Leipzig,Frankfurt,45.5,26.0,28.5,1
+hafta09,12,Man United,Tottenham,48.8,25.0,26.1,1
+hafta09,13,Liverpool,Man City,44.8,26.2,29.0,1
+hafta09,14,Real Madrid,Villarreal,51.7,24.2,24.1,1
+hafta09,15,Como,AS Roma,42.8,26.8,30.4,1
+hafta10,1,Çorum,Rizespor,42.7,26.7,30.7,1
+hafta10,2,Erzurumspor,Eyüpspor,51.9,24.1,24.0,1
+hafta10,3,Amed,Konyaspor,50.9,24.4,24.7,1
+hafta10,4,Gençlerbirliği,Galatasaray,24.5,24.3,51.2,2
+hafta10,5,Fenerbahçe,Alanyaspor,59.6,21.8,18.5,1
+hafta10,6,Kasımpaşa,Samsunspor,49.2,24.4,26.5,1
+hafta10,7,Kocaelispor,Göztepe,46.5,25.7,27.8,1
+hafta10,8,Başakşehir,Gaziantep,52.2,24.0,23.8,1
+hafta10,9,Trabzonspor,Beşiktaş,45.0,26.2,28.8,1
+hafta10,10,Everton,Chelsea,37.8,25.0,37.3,X
+hafta10,11,Brentford,Liverpool,36.1,23.9,40.0,X
+hafta10,12,Real Betis,Barcelona,34.0,24.7,41.3,X
+hafta10,13,Real Madrid,Sevilla,60.4,21.6,18.0,1
+hafta10,14,AC Milan,Atalanta,51.3,24.3,24.4,1
+hafta10,15,Juventus,Lazio,50.4,24.6,25.0,1
+hafta11,1,Alanyaspor,Kocaelispor,47.5,26.3,26.2,1
+hafta11,2,Eyüpspor,Kasımpaşa,34.4,25.1,40.5,X
+hafta11,3,Gaziantep,Erzurumspor,51.0,24.5,24.5,1
+hafta11,4,Samsunspor,Amed,43.1,23.2,33.7,1
+hafta11,5,Konyaspor,Gençlerbirliği,47.6,25.8,26.7,1
+hafta11,6,Göztepe,Çorum,53.4,23.6,23.0,1
+hafta11,7,Beşiktaş,Başakşehir,60.1,21.3,18.7,1
+hafta11,8,Rizespor,Trabzonspor,33.8,26.1,40.1,X
+hafta11,9,Galatasaray,Fenerbahçe,51.5,24.8,23.8,1
+hafta11,10,Dortmund,Frankfurt,56.2,22.4,21.3,1
+hafta11,11,Monaco,Lille,47.7,25.8,26.5,1
+hafta11,12,PSG,Lyon,58.5,21.6,19.9,1
+hafta11,13,Chelsea,Tottenham,56.8,22.2,20.9,1
+hafta11,14,Barcelona,Real Madrid,51.2,24.0,24.8,1
+hafta11,15,Napoli,AS Roma,42.3,26.9,30.7,1
