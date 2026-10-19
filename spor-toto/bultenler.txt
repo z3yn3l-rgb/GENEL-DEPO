@@ -1,0 +1,188 @@
+# Spor Toto 2026/2027 bültenleri. Her satır: Ev sahibi - Deplasman
+
+[hafta01] 14-18 Ağustos 2026
+Galatasaray - Çorum
+Kasımpaşa - Trabzonspor
+Konyaspor - Rizespor
+Gaziantep - Alanyaspor
+Gençlerbirliği - Fenerbahçe
+Başakşehir - Kocaelispor
+Amed - Erzurumspor
+Beşiktaş - Eyüpspor
+Samsunspor - Göztepe
+Arsenal - Man City
+Lens - PSG
+Sevilla - Vallecano
+Santander - Villarreal
+Espanyol - Levante
+Celta Vigo - Osasuna
+
+[hafta02] 21-25 Ağustos 2026
+Erzurumspor - Galatasaray
+Rizespor - Samsunspor
+Çorum - Kasımpaşa
+Fenerbahçe - Konyaspor
+Eyüpspor - Gaziantep
+Trabzonspor - Başakşehir
+Alanyaspor - Beşiktaş
+Göztepe - Gençlerbirliği
+Kocaelispor - Amed
+Dortmund - Bayern Münih
+Marsilya - Strasbourg
+Newcastle - Liverpool
+Real Betis - Real Sociedad
+Atletico Madrid - Villarreal
+Torino - AC Milan
+
+[hafta03] 28 Ağustos - 1 Eylül 2026
+Gençlerbirliği - Erzurumspor
+Konyaspor - Kocaelispor
+Galatasaray - Göztepe
+Gaziantep - Rizespor
+Eyüpspor - Alanyaspor
+Başakşehir - Kasımpaşa
+Samsunspor - Fenerbahçe
+Amed - Trabzonspor
+Beşiktaş - Çorum
+Dortmund - Hamburg
+Lille - PSG
+Monaco - Marsilya
+Tottenham - Newcastle
+Sevilla - Atletico Madrid
+Cagliari - Inter
+
+[hafta04] 4-8 Eylül 2026
+Erzurumspor - Konyaspor
+Kasımpaşa - Amed
+Çorum - Eyüpspor
+Fenerbahçe - Beşiktaş
+Başakşehir - Galatasaray
+Kocaelispor - Samsunspor
+Trabzonspor - Gençlerbirliği
+Rizespor - Alanyaspor
+Göztepe - Gaziantep
+Everton - Man United
+Arsenal - Chelsea
+Athletic Bilbao - Atletico Madrid
+Inter - Napoli
+AS Roma - Atalanta
+Juventus - AC Milan
+
+[hafta05] 11-15 Eylül 2026
+Beşiktaş - Erzurumspor
+Eyüpspor - Rizespor
+Samsunspor - Çorum
+Alanyaspor - Göztepe
+Konyaspor - Trabzonspor
+Gençlerbirliği - Kasımpaşa
+Amed - Başakşehir
+Galatasaray - Kocaelispor
+Gaziantep - Fenerbahçe
+Augsburg - Leverkusen
+Rennes - Marsilya
+Chelsea - Hull City
+Man United - Man City
+Levante - Barcelona
+Lazio - AC Milan
+
+[hafta06] 18-22 Eylül 2026
+Kasımpaşa - Konyaspor
+Kocaelispor - Gaziantep
+Çorum - Alanyaspor
+Başakşehir - Gençlerbirliği
+Trabzonspor - Galatasaray
+Erzurumspor - Samsunspor
+Fenerbahçe - Eyüpspor
+Amed - Beşiktaş
+Göztepe - Rizespor
+Stuttgart - Dortmund
+Leverkusen - Leipzig
+Tottenham - Aston Villa
+Newcastle - Hull City
+Atletico Madrid - Real Madrid
+AS Roma - Inter
+
+[hafta07] 25-29 Eylül 2026
+Türkiye - Fransa
+Türkiye - İtalya
+İsveç - Romanya
+İtalya - Belçika
+Slovenya - İskoçya
+Bulgaristan - Lüksemburg
+Kuzey Makedonya - İsviçre
+Çekya - Hırvatistan
+İngiltere - İspanya
+Litvanya - Azerbaycan
+Avusturya - Kosova
+Danimarka - Galler
+Sırbistan - Hollanda
+Almanya - Yunanistan
+Norveç - Portekiz
+
+[hafta08] 2-6 Ekim 2026
+Belçika - Türkiye
+İtalya - Türkiye
+Bosna Hersek - İsveç
+Fransa - İtalya
+Macaristan - Gürcistan
+Polonya - Romanya
+Hırvatistan - İngiltere
+Kuzey Makedonya - İskoçya
+İspanya - Çekya
+İsviçre - Slovenya
+Galler - Danimarka
+Hollanda - Sırbistan
+Portekiz - Norveç
+Yunanistan - Almanya
+Fransa - Belçika
+
+[hafta09] 9-13 Ekim 2026
+Galatasaray - Kasımpaşa
+Gençlerbirliği - Amed
+Alanyaspor - Erzurumspor
+Samsunspor - Trabzonspor
+Rizespor - Fenerbahçe
+Konyaspor - Başakşehir
+Gaziantep - Çorum
+Beşiktaş - Kocaelispor
+Eyüpspor - Göztepe
+Augsburg - Bayern Münih
+Leipzig - Frankfurt
+Man United - Tottenham
+Liverpool - Man City
+Real Madrid - Villarreal
+Como - AS Roma
+
+[hafta10] 16-20 Ekim 2026
+Çorum - Rizespor
+Erzurumspor - Eyüpspor
+Amed - Konyaspor
+Gençlerbirliği - Galatasaray
+Fenerbahçe - Alanyaspor
+Kasımpaşa - Samsunspor
+Kocaelispor - Göztepe
+Başakşehir - Gaziantep
+Trabzonspor - Beşiktaş
+Everton - Chelsea
+Brentford - Liverpool
+Real Betis - Barcelona
+Real Madrid - Sevilla
+AC Milan - Atalanta
+Juventus - Lazio
+
+[hafta11] 23-27 Ekim 2026
+Alanyaspor - Kocaelispor
+Eyüpspor - Kasımpaşa
+Gaziantep - Erzurumspor
+Samsunspor - Amed
+Konyaspor - Gençlerbirliği
+Göztepe - Çorum
+Beşiktaş - Başakşehir
+Rizespor - Trabzonspor
+Galatasaray - Fenerbahçe
+Dortmund - Frankfurt
+Monaco - Lille
+PSG - Lyon
+Chelsea - Tottenham
+Barcelona - Real Madrid
+Napoli - AS Roma
