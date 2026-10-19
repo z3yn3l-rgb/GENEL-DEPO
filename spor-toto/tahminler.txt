@@ -14,3 +14,8 @@ hafta11: 111111121111111
 Hafta 11 - yontem B (oyuncu tercih yuzdeleri, 2026-10-19 kaydedildi)
 hafta11 tek kolon : 121211121111112
 hafta11 48 kolon  : 1X 2 1 2 1X 1 1 2 1X2 1 1X 1 1 1 X2
+
+Hafta 11 - guncel model (K=30, 1-9. hafta sonuclariyla) ve karma (guncel model + oyuncu tercihi)
+hafta11 guncel tek kolon : 121111121111111
+hafta11 karma tek kolon  : 121211121111112
+hafta11 karma 72 kolon   : 1X2 2 1 12 1X 1 1 2 1X 1 1 1 1 1 1X2
