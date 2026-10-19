@@ -25,3 +25,6 @@ hafta11 final tek kolon  : X 2 1 X 1 1 1 2 X 1 1 1 1 1 X
 
 Hafta 11 - agirlikli model (50 sonuc / 40 bilgi / 10 tercih), 10. hafta sonuclariyla
 hafta11 agirlikli tek kolon: 1 2 1 X 1 1 1 2 1 1 1 1 1 1 1
+
+Hafta 11 - OYNANACAK KUPON (48 kolon x 10 TL = 480 TL), arastirma + tum modeller
+1 / 2 / 12 / 2 / 1X / 12 / 1 / 2 / 1 / 1 / 12 / 1 / 1 / 1 / 1X2

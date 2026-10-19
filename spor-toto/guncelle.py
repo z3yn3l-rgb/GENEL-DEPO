@@ -64,11 +64,13 @@ def main():
             continue
         hafta_dogru = 0
         for (ev, dep), sonuc in zip(maclar, sonuclar[ad]):
+            if sonuc not in "1X2":
+                continue
             olas = olasilik(ev, dep, guc)
             tahmin = "1X2"[olas.index(max(olas))]
             hafta_dogru += tahmin == sonuc
             guncelle(guc, ev, dep, sonuc, a.k)
-        toplam += len(maclar)
+        toplam += sum(s in "1X2" for s in sonuclar[ad])
         dogru += hafta_dogru
         if not a.sessiz:
             print(f"{ad}: {hafta_dogru}/15")
