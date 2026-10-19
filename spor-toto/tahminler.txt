@@ -10,3 +10,7 @@ hafta08: 111111221121121
 hafta09: 111121112211111
 hafta10: 211212111222111
 hafta11: 111111121111111
+
+Hafta 11 - yontem B (oyuncu tercih yuzdeleri, 2026-10-19 kaydedildi)
+hafta11 tek kolon : 121211121111112
+hafta11 48 kolon  : 1X 2 1 2 1X 1 1 2 1X2 1 1X 1 1 1 X2
